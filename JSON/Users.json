@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "first_name": "Isaac",
+    "voice_part": "Baritone",
+    "username": "isaac",
+    "password": "isaac2016",
+    "image_name": "isaac.jpg"
+  },
+  {
+    "id": 2,
+    "first_name": "Zach",
+    "voice_part": "Tenor",
+    "username": "zach",
+    "password": "zach2017",
+    "image_name": "zach.jpg"
+  },
+  {
+    "id": 3,
+    "first_name": "Cara",
+    "voice_part": "Mezzo",
+    "username": "cara",
+    "password": "cara2017",
+    "image_name": "cara.jpg"
+  },
+  {
+    "id": 4,
+    "first_name": "Johnnie",
+    "voice_part": "Bass",
+    "username": "johnnie",
+    "password": "johnnie2018",
+    "image_name": "johnnie.jpg"
+  },
+  {
+    "id": 5,
+    "first_name": "Sam",
+    "voice_part": "Vocal Percussion",
+    "username": "sam",
+    "password": "sam2018",
+    "image_name": "sam.jpg"
+  },
+  {
+    "id": 6,
+    "first_name": "Bri",
+    "voice_part": "Alto",
+    "username": "bri",
+    "password": "bri2018",
+    "image_name": "bri.jpg"
+  },
+  {
+    "id": 7,
+    "first_name": "Loryn",
+    "voice_part": "Soprano",
+    "username": "loryn",
+    "password": "loryn2019",
+    "image_name": "loryn.jpg"
+  },
+  {
+    "id": 8,
+    "first_name": "Laurel",
+    "voice_part": "Contralto",
+    "username": "laurel",
+    "password": "laurel2019",
+    "image_name": "laurel.jpg"
+  }
+]
