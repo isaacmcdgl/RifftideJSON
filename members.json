@@ -38,5 +38,15 @@
         "name": "loryn",
         "index": "8",
         "isActive": true
+    },
+    {
+        "name": "brennan",
+        "index": "9",
+        "isActive": false
+    },
+    {
+        "name": "emily",
+        "index": "10",
+        "isActive": false
     }
 ]
