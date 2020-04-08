@@ -3,64 +3,64 @@
     "eventCards":[
       {
         "eventname": "Teal 2019",
-        "eventcode": "teal19",
-        "img": "teal19_loryn",
+        "eventcode": "19teal",
+        "img": "19teal_loryn",
         "member": "loryn",
         "memberindex": 1,
         "eventindex": 1
       },
       {
         "eventname": "Teal 2019",
-        "eventcode": "teal19",
-        "img": "teal19_cara",
+        "eventcode": "19teal",
+        "img": "19teal_cara",
         "member": "cara",
         "memberindex": 2,
         "eventindex": 1
       },
       {
         "eventname": "Teal 2019",
-        "eventcode": "teal19",
-        "img": "teal19_bri",
+        "eventcode": "19teal",
+        "img": "19teal_bri",
         "member": "bri",
         "memberindex": 3,
         "eventindex": 1
       },
       {
         "eventname": "Teal 2019",
-        "eventcode": "teal19",
-        "img": "teal19_laurel",
+        "eventcode": "19teal",
+        "img": "19teal_laurel",
         "member": "laurel",
         "memberindex": 4,
         "eventindex": 1
       },
       {
         "eventname": "Teal 2019",
-        "eventcode": "teal19",
-        "img": "teal19_zach",
+        "eventcode": "19teal",
+        "img": "19teal_zach",
         "member": "zach",
         "memberindex": 5,
         "eventindex": 1
       },
       {
         "eventname": "Teal 2019",
-        "eventcode": "teal19",
-        "img": "teal19_isaac",
+        "eventcode": "19teal",
+        "img": "19teal_isaac",
         "member": "isaac",
         "memberindex": 6,
         "eventindex": 1
       },
       {
         "eventname": "Teal 2019",
-        "eventcode": "teal19",
-        "img": "teal19_johnnie",
+        "eventcode": "19teal",
+        "img": "19teal_johnnie",
         "member": "johnnie",
         "memberindex": 7,
         "eventindex": 1
       },
       {
         "eventname": "Teal 2019",
-        "eventcode": "teal19",
-        "img": "teal19_sam",
+        "eventcode": "19teal",
+        "img": "19teal_sam",
         "member": "sam",
         "memberindex": 8,
         "eventindex": 1
@@ -71,64 +71,64 @@
     "eventCards":[
       {
         "eventname": "Gold 2019",
-        "eventcode": "gold19",
-        "img": "gold19_loryn",
+        "eventcode": "19gold",
+        "img": "19gold_loryn",
         "member": "loryn",
         "memberindex": 1,
         "eventindex": 2
       },
       {
         "eventname": "Gold 2019",
-        "eventcode": "gold19",
-        "img": "gold19_cara",
+        "eventcode": "19gold",
+        "img": "19gold_cara",
         "member": "cara",
         "memberindex": 2,
         "eventindex": 2
       },
       {
         "eventname": "Gold 2019",
-        "eventcode": "gold19",
-        "img": "gold19_bri",
+        "eventcode": "19gold",
+        "img": "19gold_bri",
         "member": "bri",
         "memberindex": 3,
         "eventindex": 2
       },
       {
         "eventname": "Gold 2019",
-        "eventcode": "gold19",
-        "img": "gold19_laurel",
+        "eventcode": "19gold",
+        "img": "19gold_laurel",
         "member": "laurel",
         "memberindex": 4,
         "eventindex": 2
       },
       {
         "eventname": "Gold 2019",
-        "eventcode": "gold19",
-        "img": "gold19_zach",
+        "eventcode": "19gold",
+        "img": "19gold_zach",
         "member": "zach",
         "memberindex": 5,
         "eventindex": 2
       },
       {
         "eventname": "Gold 2019",
-        "eventcode": "gold19",
-        "img": "gold19_isaac",
+        "eventcode": "19gold",
+        "img": "19gold_isaac",
         "member": "isaac",
         "memberindex": 6,
         "eventindex": 2
       },
       {
         "eventname": "Gold 2019",
-        "eventcode": "gold19",
-        "img": "gold19_johnnie",
+        "eventcode": "19gold",
+        "img": "19gold_johnnie",
         "member": "johnnie",
         "memberindex": 7,
         "eventindex": 2
       },
       {
         "eventname": "Gold 2019",
-        "eventcode": "gold19",
-        "img": "gold19_sam",
+        "eventcode": "19gold",
+        "img": "19gold_sam",
         "member": "sam",
         "memberindex": 8,
         "eventindex": 2
