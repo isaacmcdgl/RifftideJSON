@@ -1,9 +1,12 @@
 [
   { "eventName":"2019 Teal Series",
-    "eventCode":"19teal"
+    "eventCode":"teal2019"
   },
   {"eventName":"2019 Gold Series",
-    "eventCode":"19gold"
+    "eventCode":"gold2019"
+  },
+  { "eventName":"2019 Teal Series",
+    "eventCode":"christmas2019"
   },
   {"eventName":"Halloween 2019",
     "eventCode":"hall19"
