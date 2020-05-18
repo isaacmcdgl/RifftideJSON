@@ -1,5 +1,13 @@
 [
     {
+      "eventname": "Keep You With Me",
+      "eventcode": "kywm",
+      "img": "kywm_isaac",
+      "member": "isaac",
+      "memberindex": 6,
+      "eventindex": 0
+    },
+    {
       "eventname": "Teal 2019",
       "eventcode": "teal2019",
       "img": "teal2019_loryn",
