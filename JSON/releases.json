@@ -1,5 +1,15 @@
 [
     {
+        "release_code": "monster",
+        "display_name": "Monster",
+        "release_date": "02-28-2020",
+        "youtube_url": null,
+        "spotify_url": null,
+        "itunes_url": null,
+        "amazon_url": null,
+        "gplay_url": null
+    },
+    {
       "release_code": "kywm",
       "display_name": "Keep You With Me",
       "release_date": "04-28-2020",
